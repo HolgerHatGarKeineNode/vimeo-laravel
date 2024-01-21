@@ -17,7 +17,7 @@
         "php": "^7.2|^8.0",
         "illuminate/contracts": "^5.8|^6.0|^7.0|^8.0|^9.0|^10.0",
         "illuminate/support": "^5.8|^6.0|^7.0|^8.0|^9.0|^10.0",
-        "graham-campbell/manager": "^4.0",
+        "graham-campbell/manager": "^5.1",
         "vimeo/vimeo-api": "^3.0.3|^3.0"
     },
     "require-dev": {
